@@ -14,4 +14,4 @@
 
 ## ☕ Contact
 If you need something, I'm probably coding.  
-But you can try anyway: **davide@dm-services.it**
+But you can try anyway: **davide@dm-services.it** - Davide Mulinacci
