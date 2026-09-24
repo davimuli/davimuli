@@ -1,4 +1,4 @@
-## 🧙‍♂️ Who I Am
+## 🧙‍♂️ WhoAmI
 - 💻 Full-time programmer, part-time optimist  
 - 🐍 Python as my unofficial religion  
 - ⚙️ Automation everywhere  
